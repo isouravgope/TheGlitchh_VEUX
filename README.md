@@ -1,2 +1,2 @@
-OTA Release of Unofficial builds by (theglitchh)[https://github.com/theglitchh]
+OTA Release of Unofficial builds by [theglitchhh](https://github.com/theglitchh)
 
